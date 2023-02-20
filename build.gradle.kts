@@ -3,8 +3,8 @@ plugins {
     application
 }
 
-group = "org.example"
-version = "1.0-SNAPSHOT"
+group = "org.azorin"
+version = "0.0.1-SNAPSHOT"
 
 repositories {
     mavenCentral()
